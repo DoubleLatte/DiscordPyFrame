@@ -19,8 +19,3 @@
 ## 주의사항
 
 - config.yml에 관리자 역활 확인 
-
----
-![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-개발 문의: doublelatte
